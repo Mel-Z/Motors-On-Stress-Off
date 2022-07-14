@@ -38,7 +38,7 @@ https://github.com/theAIGuysCode/colab-webcam/blob/main/colab_webcam.ipynb
 
 The MIT License
 
-Copyright (c) 2020 [nombre de equipo]
+Copyright (c) 2020 [DeepVision]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
