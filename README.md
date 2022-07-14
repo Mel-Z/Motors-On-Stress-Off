@@ -26,13 +26,13 @@ Yolo v4 - Darknet
 Detectar la emociones de un rostro mediante el uso de la webcam.
 
 ## Creditos
-Benjamín Villegas
-Rolando Rentería 
-Melanie Zurita 
+- Benjamín Villegas
+- Rolando Rentería 
+- Melanie Zurita 
 
 Se utilizaron como base los siguientes repositorios:
-# https://github.com/theAIGuysCode
-# https://github.com/theAIGuysCode/colab-webcam/blob/main/colab_webcam.ipynb
+https://github.com/theAIGuysCode
+https://github.com/theAIGuysCode/colab-webcam/blob/main/colab_webcam.ipynb
 
 ## Licencia
 
