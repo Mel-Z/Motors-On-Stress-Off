@@ -9,7 +9,7 @@ El proyecto utiliza dos cámaras:
 
 Se tienen dos repositorios en Colab para cada funcionalidad: 
 - FinalProject.ipynb: Red neuronal para deteción de emociones
-- Object_detection_with_YOLOv4: Detección de objetos de una imagen capturada por la webcam
+- Object_detection: Detección de objetos de una imagen capturada por la webcam
 
 ## Motivación
 ODS 11: Ciudades y comunidades sostenibles
