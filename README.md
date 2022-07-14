@@ -20,7 +20,8 @@ Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyec
 
 ## Tecnologías/Frameworks utilizados
 Yolo v4 - Darknet 
-
+Resnet - Resnet50 y Resnet18
+OpenCV - Haar Cascades
 ## Funcionalidades
 Detectar la emociones de un rostro mediante el uso de la webcam.
 Detección de objetos de una imagen desde la webcam
