@@ -7,12 +7,9 @@ El proyecto utiliza dos cámaras:
 - Una centrada en el conductor clasificara las imágenes dentro 6 emociones básicas (tristeza, asco, miedo, enfado, alegría y sorpresa) utilizando redes neuronales.
 - Otra cámara enfocada en el camino recorrido realizará la detección de objetos mediante el algoritmo Yolo (you only look once).
 
-Se tienen dos repositorios en Colab para cada funcionalidad 
-
-# FinalProject.ipynb
-Red neuronal para deteción de emociones
-# Object_detection_with_YOLOv4
-Detección de objetos de una imagen capturada por la webcam
+Se tienen dos repositorios en Colab para cada funcionalidad: 
+- FinalProject.ipynb: Red neuronal para deteción de emociones
+- Object_detection_with_YOLOv4: Detección de objetos de una imagen capturada por la webcam
 
 ## Motivación
 ODS 11: Ciudades y comunidades sostenibles
