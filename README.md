@@ -21,17 +21,16 @@ Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyec
 ## Tecnologías/Frameworks utilizados
 Yolo v4 - Darknet 
 
-## Funcionalidades mas importantes
+## Funcionalidades
 Detectar la emociones de un rostro mediante el uso de la webcam.
-
+Detección de objetos de una imagen desde la webcam
 ## Creditos
 - Benjamín Villegas
 - Rolando Rentería 
 - Melanie Zurita 
 
 Se utilizaron como base los siguientes repositorios:
-https://github.com/theAIGuysCode
-https://github.com/theAIGuysCode/colab-webcam/blob/main/colab_webcam.ipynb
+- https://github.com/theAIGuysCode/colab-webcam/blob/main/colab_webcam.ipynb
 
 ## Licencia
 
